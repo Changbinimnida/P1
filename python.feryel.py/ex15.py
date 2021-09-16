@@ -1,0 +1,6 @@
+a = int(input("choisir un nombre:"))
+b = int(input("choisir un nombre:"))
+c = int(input("choisir un nombre:"))
+d = int(input("choisir un nombre:"))
+x = (d-b)/(a-c)
+print(y = ax+b)
